@@ -11,12 +11,6 @@
             "homepage": "http://www.lickmychip.com/"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/egekhter/PHPExiftool"
-        }
-    ],
     "require": {
         "php"                  : ">=5.3.3",
         "doctrine/collections" : "1.*",
